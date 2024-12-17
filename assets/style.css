@@ -1,0 +1,24 @@
+#dilkontrol-btn {
+    margin-top: 10px;
+}
+
+.dilkontrol-error {
+    background-color: rgba(255, 0, 0, 0.2);
+    border-bottom: 2px dotted red;
+    cursor: pointer;
+    position: relative;
+}
+
+.dilkontrol-error:hover::after {
+    content: attr(title);
+    position: absolute;
+    background: #333;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    top: 100%;
+    left: 0;
+    white-space: nowrap;
+    z-index: 10;
+}
