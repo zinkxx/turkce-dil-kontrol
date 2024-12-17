@@ -1,0 +1,77 @@
+MIT License
+
+Copyright (c) 2024 Zinkxx
+
+İzninizle, bu yazılım ve belgeler şu şartlarla dağıtılabilir ve/veya değiştirilebilir:
+
+1. **Kullanım İzni**: 
+   Yazılımın kopyalarını, değişikliklerini ve dağıtımlarını yapmak, bu yazılımı ticari veya ticari olmayan amaçlarla kullanmak serbesttir. Yazılımı kullanarak, değiştirebilir, birleştirebilir, dağıtabilir, alt lisanslayabilir ve satabilirsiniz.
+
+2. **Belgelendirme Gereksinimi**:
+   Yazılımın her kopyasında ve değişikliklerinde aşağıdaki belgelerin yer alması gerekmektedir:
+   - Orijinal MIT lisansı.
+   - Yazılımın herhangi bir değişikliğini veya modifikasyonunu içeren bir açıklama.
+
+3. **Garanti Yoksunluğu**: 
+   Bu yazılım, herhangi bir garanti olmaksızın sağlanmaktadır. Bu yazılımın, belirli bir amaca uygunluğu, ticari olarak kullanılabilirliği veya hatasız olması konusunda herhangi bir garanti verilmez. Yazılımı kullanan kişi, yazılımın hatalı çalışmasından veya yanlış kullanımından doğan tüm riskleri üstlenir.
+
+4. **Sorumluluk Reddi**:
+   Yazılımı kullanan kişi, yazılımın kullanımından doğacak tüm zarar, kayıp veya hasar için tamamen sorumludur. Bu yazılımın kullanımı, hiçbir şekilde yazılımın geliştiricisi veya katkı sağlayan kişiler tarafından sorumlu tutulamaz.
+
+5. **Değişiklikler ve Yayımlama**:
+   Yazılım üzerinde yapılan değişiklikler veya türev çalışmalar, bu lisans altında aynı şekilde lisanslanmalıdır. Ancak, değiştirilen yazılımın orijinal versiyonunun sahibine ait herhangi bir marka veya ticari adının kullanılmaması gerekir.
+
+6. **Patent Hakları**:
+   Bu yazılımı kullanan kişi, yazılımın bir parçası olan herhangi bir patente karşı hiçbir talepte bulunmayacağını kabul eder. Yani yazılım üzerinde herhangi bir patent hakkı ileri sürülmeyecektir.
+
+7. **Uygulama Alanı**:
+   Bu lisans, yazılımı kullanan kişinin bulunduğu yasal alana ve bölgeye göre değişiklik gösterebilir. Yani, yasal gereksinimler, kullanımda olduğunuz ülkenin yasalarına tabidir.
+
+---
+
+### **Lisansın Ekstra Bölümleri (Opsiyonel)**
+
+**Aşağıdaki koşullar, yazılımın kullanımına veya dağıtımına dair ek kurallar ekleyerek daha kapsamlı hale getirilebilir:**
+
+- **Yazılımın Ticari Kullanımı**:
+   Eğer yazılım yalnızca belirli ticari kullanımlar için lisanslanmışsa, ticari amaçlarla kullanım izni belirli kısıtlamalarla sınırlı olabilir. Bu durumda, açık bir ticari kullanım koşulu eklenmelidir.
+
+- **Geriye Dönük Uyumluluk**:
+   Eğer yazılımın eski versiyonlarıyla uyumluluğun sağlanması gerekiyorsa, bu durumu açıkça belirtmek önemlidir. Geriye dönük uyumluluk, kullanıcıların yazılımı eski sürümlerle birlikte kullanabilmesi için gerekebilir.
+
+---
+
+### **Lisansın Ekstra Bölümleri ile Geliştirilmiş Örnek**:
+
+```txt
+MIT License
+
+Copyright (c) 2024 Zinkxx
+
+İzninizle, bu yazılım ve belgeler şu şartlarla dağıtılabilir ve/veya değiştirilebilir:
+
+1. **Kullanım İzni**: 
+   Yazılımın kopyalarını, değişikliklerini ve dağıtımlarını yapmak, bu yazılımı ticari veya ticari olmayan amaçlarla kullanmak serbesttir. Yazılımı kullanarak, değiştirebilir, birleştirebilir, dağıtabilir, alt lisanslayabilir ve satabilirsiniz. Ancak, yazılımı doğrudan veya türev çalışmalarınızda kullanarak elde ettiğiniz gelir üzerinde herhangi bir pay vermek zorunda değilsiniz.
+
+2. **Belgelendirme Gereksinimi**:
+   Yazılımın her kopyasında ve değişikliklerinde aşağıdaki belgelerin yer alması gerekmektedir:
+   - Orijinal MIT lisansı.
+   - Yazılımın herhangi bir değişikliğini veya modifikasyonunu içeren bir açıklama. Herhangi bir değişiklik yapıldıysa, bunu belirtmek ve değişikliklerinizi açıkça tanımlamak gerekmektedir.
+
+3. **Garanti Yoksunluğu**: 
+   Bu yazılım, herhangi bir garanti olmaksızın sağlanmaktadır. Yazılımın, belirli bir amaca uygunluğu, ticari olarak kullanılabilirliği veya hatasız olması konusunda herhangi bir garanti verilmez. Yazılımı kullanan kişi, yazılımın hatalı çalışmasından veya yanlış kullanımından doğan tüm riskleri üstlenir.
+
+4. **Sorumluluk Reddi**:
+   Yazılımı kullanan kişi, yazılımın kullanımından doğacak tüm zarar, kayıp veya hasar için tamamen sorumludur. Bu yazılımın kullanımı, hiçbir şekilde yazılımın geliştiricisi veya katkı sağlayan kişiler tarafından sorumlu tutulamaz. Yazılımın hatalı kullanımı veya yazılımdan doğan herhangi bir kayıptan dolayı geliştirici veya katkı sağlayan kişiler sorumlu tutulamaz.
+
+5. **Değişiklikler ve Yayımlama**:
+   Yazılım üzerinde yapılan değişiklikler veya türev çalışmalar, bu lisans altında aynı şekilde lisanslanmalıdır. Ancak, değiştirilen yazılımın orijinal versiyonunun sahibine ait herhangi bir marka veya ticari adının kullanılmaması gerekir. Türev çalışmaların yayınlanması durumunda, değişikliklerin kaynağını belirtmek gerekmektedir.
+
+6. **Patent Hakları**:
+   Bu yazılımı kullanan kişi, yazılımın bir parçası olan herhangi bir patente karşı hiçbir talepte bulunmayacağını kabul eder. Yani yazılım üzerinde herhangi bir patent hakkı ileri sürülmeyecektir. Yazılımın herhangi bir parçası üzerinde patent alınıp alınamayacağı, yazılımı kullanan kişinin sorumluluğundadır.
+
+7. **Yazılımın Ticari Kullanımı**:
+   Yazılım ticari bir amaçla kullanıldığında, kullanıcı bu yazılımı kullanmadan önce lisans sahibinden ek izin almak zorunda değildir. Ancak, yazılımın ticari bir ürüne dönüştürülmesi veya satılması durumunda, yazılımın orijinal yazarlarıyla iletişime geçilmesi önerilir.
+
+8. **Uygulama Alanı**:
+   Bu lisans, yazılımı kullanan kişinin bulunduğu yasal alana ve bölgeye göre değişiklik gösterebilir. Yazılımı kullanan kişi, ilgili yasal gereksinimleri göz önünde bulundurmalıdır. Yazılımın kullanımı sırasında herhangi bir yasal engel veya kısıtlama ile karşılaşıldığında, kullanıcılar yerel yasaları incelemelidir.
